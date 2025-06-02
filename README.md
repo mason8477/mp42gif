@@ -1,4 +1,4 @@
-# MP4toGIF Converter
+# MP4 to GIF Converter
 
 A simple Python tool with a graphical interface to convert MP4 video files to GIF format using the MoviePy library.
 
